@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2023-04-25T21:22:47.956886+03" version="8.14.2">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">65697</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">46885</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">4</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">2966.4787896766538</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">2966.4787896766538</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">openslideload</value>
+    </property>
+    <property>
+      <name>slide-level</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>aperio.AppMag</name>
+      <value type="VipsRefString">30</value>
+    </property>
+    <property>
+      <name>aperio.Date</name>
+      <value type="VipsRefString">04/08/23</value>
+    </property>
+    <property>
+      <name>aperio.DisplayColor</name>
+      <value type="VipsRefString">0</value>
+    </property>
+    <property>
+      <name>aperio.Exposure Scale</name>
+      <value type="VipsRefString">0.000001</value>
+    </property>
+    <property>
+      <name>aperio.Exposure Time</name>
+      <value type="VipsRefString">45</value>
+    </property>
+    <property>
+      <name>aperio.Filename</name>
+      <value type="VipsRefString">1124822-</value>
+    </property>
+    <property>
+      <name>aperio.Focus Offset</name>
+      <value type="VipsRefString">-0.000500</value>
+    </property>
+    <property>
+      <name>aperio.ICC Profile</name>
+      <value type="VipsRefString">AT2</value>
+    </property>
+    <property>
+      <name>aperio.ImageID</name>
+      <value type="VipsRefString">1124822</value>
+    </property>
+    <property>
+      <name>aperio.Left</name>
+      <value type="VipsRefString">15.359690</value>
+    </property>
+    <property>
+      <name>aperio.LineAreaXOffset</name>
+      <value type="VipsRefString">-0.003435</value>
+    </property>
+    <property>
+      <name>aperio.LineAreaYOffset</name>
+      <value type="VipsRefString">-0.009100</value>
+    </property>
+    <property>
+      <name>aperio.LineCameraSkew</name>
+      <value type="VipsRefString">-0.000462</value>
+    </property>
+    <property>
+      <name>aperio.MPP</name>
+      <value type="VipsRefString">0.3371</value>
+    </property>
+    <property>
+      <name>aperio.OriginalAppMag</name>
+      <value type="VipsRefString">40</value>
+    </property>
+    <property>
+      <name>aperio.OriginalHeight</name>
+      <value type="VipsRefString">65773</value>
+    </property>
+    <property>
+      <name>aperio.OriginalMPP</name>
+      <value type="VipsRefString">0.2528</value>
+    </property>
+    <property>
+      <name>aperio.OriginalWidth</name>
+      <value type="VipsRefString">93472</value>
+    </property>
+    <property>
+      <name>aperio.ScanScope ID</name>
+      <value type="VipsRefString">SS7833</value>
+    </property>
+    <property>
+      <name>aperio.SessonMode</name>
+      <value type="VipsRefString">NR</value>
+    </property>
+    <property>
+      <name>aperio.StripeWidth</name>
+      <value type="VipsRefString">2032</value>
+    </property>
+    <property>
+      <name>aperio.Time</name>
+      <value type="VipsRefString">23:37:05</value>
+    </property>
+    <property>
+      <name>aperio.Time Zone</name>
+      <value type="VipsRefString">GMT+03:00</value>
+    </property>
+    <property>
+      <name>aperio.Top</name>
+      <value type="VipsRefString">20.013464</value>
+    </property>
+    <property>
+      <name>aperio.User</name>
+      <value type="VipsRefString">dcc64eb5-7f01-4eb5-a4ae-bb5c303ab41f</value>
+    </property>
+    <property>
+      <name>openslide.comment</name>
+      <value type="VipsRefString">Aperio Image Library v12.4.7 
+91632x65673 [2333,1944 87597x62514] (240x240) -&gt; 65697x46885 J2K/KDU Q=30;Aperio Image Library v12.0.16 
+93472x65773 [0,100 91632x65673] (240x240) JPEG/RGB Q=70|StripeWidth = 2032|ScanScope ID = SS7833|Filename = 1124822-|Date = 04/08/23|Time = 23:37:05|Time Zone = GMT+03:00|User = dcc64eb5-7f01-4eb5-a4ae-bb5c303ab41f|Left = 15.359690|Top = 20.013464|LineCameraSkew = -0.000462|LineAreaXOffset = -0.003435|LineAreaYOffset = -0.009100|Focus Offset = -0.000500|ImageID = 1124822|Exposure Time = 45|Exposure Scale = 0.000001|DisplayColor = 0|SessonMode = NR|OriginalWidth = 93472|OriginalHeight = 65773|OriginalAppMag = 40|AppMag = 30|OriginalMPP = 0.2528|MPP = 0.3371|ICC Profile = AT2</value>
+    </property>
+    <property>
+      <name>openslide.level-count</name>
+      <value type="VipsRefString">4</value>
+    </property>
+    <property>
+      <name>openslide.level[0].downsample</name>
+      <value type="VipsRefString">1</value>
+    </property>
+    <property>
+      <name>openslide.level[0].height</name>
+      <value type="VipsRefString">46885</value>
+    </property>
+    <property>
+      <name>openslide.level[0].tile-height</name>
+      <value type="VipsRefString">240</value>
+    </property>
+    <property>
+      <name>openslide.level[0].tile-width</name>
+      <value type="VipsRefString">240</value>
+    </property>
+    <property>
+      <name>openslide.level[0].width</name>
+      <value type="VipsRefString">65697</value>
+    </property>
+    <property>
+      <name>openslide.level[1].downsample</name>
+      <value type="VipsRefString">4.0000731017300142</value>
+    </property>
+    <property>
+      <name>openslide.level[1].height</name>
+      <value type="VipsRefString">11721</value>
+    </property>
+    <property>
+      <name>openslide.level[1].tile-height</name>
+      <value type="VipsRefString">240</value>
+    </property>
+    <property>
+      <name>openslide.level[1].tile-width</name>
+      <value type="VipsRefString">240</value>
+    </property>
+    <property>
+      <name>openslide.level[1].width</name>
+      <value type="VipsRefString">16424</value>
+    </property>
+    <property>
+      <name>openslide.level[2].downsample</name>
+      <value type="VipsRefString">16.000975015335918</value>
+    </property>
+    <property>
+      <name>openslide.level[2].height</name>
+      <value type="VipsRefString">2930</value>
+    </property>
+    <property>
+      <name>openslide.level[2].tile-height</name>
+      <value type="VipsRefString">240</value>
+    </property>
+    <property>
+      <name>openslide.level[2].tile-width</name>
+      <value type="VipsRefString">240</value>
+    </property>
+    <property>
+      <name>openslide.level[2].width</name>
+      <value type="VipsRefString">4106</value>
+    </property>
+    <property>
+      <name>openslide.level[3].downsample</name>
+      <value type="VipsRefString">32.001950030671836</value>
+    </property>
+    <property>
+      <name>openslide.level[3].height</name>
+      <value type="VipsRefString">1465</value>
+    </property>
+    <property>
+      <name>openslide.level[3].tile-height</name>
+      <value type="VipsRefString">240</value>
+    </property>
+    <property>
+      <name>openslide.level[3].tile-width</name>
+      <value type="VipsRefString">240</value>
+    </property>
+    <property>
+      <name>openslide.level[3].width</name>
+      <value type="VipsRefString">2053</value>
+    </property>
+    <property>
+      <name>openslide.mpp-x</name>
+      <value type="VipsRefString">0.33710000000000001</value>
+    </property>
+    <property>
+      <name>openslide.mpp-y</name>
+      <value type="VipsRefString">0.33710000000000001</value>
+    </property>
+    <property>
+      <name>openslide.objective-power</name>
+      <value type="VipsRefString">30</value>
+    </property>
+    <property>
+      <name>openslide.quickhash-1</name>
+      <value type="VipsRefString">4b5ddfb6395323e506947a67ef97fb4ad0bf3df7c807e32e4e4b875db76f3601</value>
+    </property>
+    <property>
+      <name>openslide.vendor</name>
+      <value type="VipsRefString">aperio</value>
+    </property>
+    <property>
+      <name>tiff.ImageDescription</name>
+      <value type="VipsRefString">Aperio Image Library v12.4.7 
+91632x65673 [2333,1944 87597x62514] (240x240) -&gt; 65697x46885 J2K/KDU Q=30;Aperio Image Library v12.0.16 
+93472x65773 [0,100 91632x65673] (240x240) JPEG/RGB Q=70|StripeWidth = 2032|ScanScope ID = SS7833|Filename = 1124822-|Date = 04/08/23|Time = 23:37:05|Time Zone = GMT+03:00|User = dcc64eb5-7f01-4eb5-a4ae-bb5c303ab41f|Left = 15.359690|Top = 20.013464|LineCameraSkew = -0.000462|LineAreaXOffset = -0.003435|LineAreaYOffset = -0.009100|Focus Offset = -0.000500|ImageID = 1124822|Exposure Time = 45|Exposure Scale = 0.000001|DisplayColor = 0|SessonMode = NR|OriginalWidth = 93472|OriginalHeight = 65773|OriginalAppMag = 40|AppMag = 30|OriginalMPP = 0.2528|MPP = 0.3371|ICC Profile = AT2</value>
+    </property>
+    <property>
+      <name>tiff.ResolutionUnit</name>
+      <value type="VipsRefString">inch</value>
+    </property>
+    <property>
+      <name>slide-associated-images</name>
+      <value type="VipsRefString">87597x62514, label, macro, thumbnail</value>
+    </property>
+    <property>
+      <name>vips-sequential</name>
+      <value type="gint">1</value>
+    </property>
+  </properties>
+</image>
